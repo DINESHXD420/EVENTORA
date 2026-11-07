@@ -25,17 +25,12 @@ Eventora is a responsive event discovery and registration website developed as a
 
 ## Project Structure
 
-```text
 EVENTORA/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-│   ├── art.png
-│   └── workshop.png
 └── README.md
-```
 
 ## How to Run Locally
 
