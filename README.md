@@ -23,14 +23,18 @@ Eventora is a responsive event discovery and registration website developed as a
 - Google Fonts – DM Sans and Outfit
 - Browser Local Storage
 
+
 ## Project Structure
 
+```text
 EVENTORA/
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── 📄 index.html       # Main HTML structure
+├── 🎨 style.css        # Styling and responsive design
+├── ⚙️ script.js        # JavaScript functionality
+└── 📘 README.md        # Project documentation
+```
+
 
 ## How to Run Locally
 
